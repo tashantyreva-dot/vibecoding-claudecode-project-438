@@ -1,0 +1,25 @@
+# Величина боли, ценовой коридор и цена
+#
+# pain: насколько сильно болит проблема (время/деньги/эмоции), с опорой на находки
+# price_corridor: диапазон, который люди называли или который вытекает из альтернатив
+# price: предложенная цена и обоснование
+
+pain:
+  time_cost: "TODO (например: 1-2 часа в неделю)"
+  money_cost: "TODO (например: 500-1000 руб/мес на альтернативы)"
+  emotional_cost: "TODO (например: раздражение, чувство вины)"
+  evidence:
+    - source: discovery/interviews/TODO.md
+      quote: "TODO"
+
+price_corridor:
+  min: 0
+  max: 0
+  currency: RUB
+  basis: "TODO — на основе чего определён коридор (цены конкурентов, слова респондентов)"
+
+price:
+  value: 0
+  currency: RUB
+  model: "TODO — разовая / подписка / freemium"
+  rationale: "TODO"
