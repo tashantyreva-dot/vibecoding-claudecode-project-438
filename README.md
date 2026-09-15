@@ -33,6 +33,26 @@ cd vibecoding-claudecode-project-438
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 
+## Discovery
+
+Материалы исследования лежат в папке [`discovery/`](discovery):
+
+- [`discovery/idea.md`](discovery/idea.md) — заявка на идею и ответы фильтра подъёмности
+- [`discovery/interview-guide.md`](discovery/interview-guide.md) — гайд для интервью
+- [`discovery/interviews/`](discovery/interviews) — расшифровки интервью
+- [`discovery/findings.yml`](discovery/findings.yml) — находки с доказательствами (цитатами)
+- [`discovery/competitors.md`](discovery/competitors.md) — сравнение с конкурентами и ручным способом
+- [`discovery/pricing.yml`](discovery/pricing.yml) — величина боли, ценовой коридор и цена
+- [`discovery/mvp.md`](discovery/mvp.md) — гипотезы с оценкой и объём MVP
+- [`discovery/spec.md`](discovery/spec.md) — спека с критериями приёмки и метрикой успеха
+- [`discovery/product.md`](discovery/product.md) — описание продукта по формуле
+
+## Прототип
+
+<!-- TODO: вставить ссылку на прототип в Claude Design -->
+
+Ссылка на прототип: TODO
+
 ---
 
 <details>
