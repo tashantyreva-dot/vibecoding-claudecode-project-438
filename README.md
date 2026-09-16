@@ -49,9 +49,9 @@ cd vibecoding-claudecode-project-438
 
 ## Прототип
 
-<!-- TODO: вставить ссылку на прототип в Claude Design -->
-
-Ссылка на прототип: TODO
+Прототип (4 артборда: главный экран, добавление продукта, пустое состояние,
+поиск без результата) собран в Claude Design:
+https://claude.ai/artifact/K486zLE58NeqShNdPHhP4Y
 
 ---
 
